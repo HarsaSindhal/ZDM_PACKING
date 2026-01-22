@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Fabric Sort Master",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Fabric Sort Master"
+  },
+  "ui5AppDetails": {
+    "appId": "zdenimsortmaster"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_86B2963CAE56E59D80B1396CB811320965495CE5_TM",
+    "semanticObject": "zdenimsortmaster",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_86B2963CAE56E59D80B1396CB811320965495CE5_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Fabric Sort Master",
+        "subtitle": "PP"
+      }
+    }
+  ]
+}
